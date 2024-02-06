@@ -1,0 +1,62 @@
+{
+	"type": "Topology",
+	"objects": {
+		"counties": {
+			"type": "GeometryCollection",
+			"geometries": [
+				{
+					"type": "Polygon",
+					"id": 5089,
+					"arcs": [
+						[
+							0,
+							1,
+							2,
+							3,
+							4
+						]
+					]
+				},
+				{
+					"type": "Polygon",
+					"id": 6079,
+					"arcs": [
+						[
+							5,
+							6,
+							7,
+							8,
+							9
+						]
+					]
+				},
+				{
+					"type": "Polygon",
+					"id": 17111,
+					"arcs": [
+						[
+							10,
+							11,
+							12,
+							13,
+							14,
+							15,
+							16
+						]
+					]
+				},
+				{
+					"type": "Polygon",
+					"id": 20131,
+					"arcs": [
+						[
+							17,
+							18,
+							19,
+							20,
+							21,
+							22
+						]
+					]
+				}
+            ]}}}
